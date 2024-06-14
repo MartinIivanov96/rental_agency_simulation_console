@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610899982 source:c:\users\martin ivanov\desktop\uni\3rd semester wise 2020-2021\oop praktikum\aufgabe 8 - big assignment\aufgabe 8\src\dayofyear.cpp
+	"DayOfYear.h"
+
+1610899984 c:\users\martin ivanov\desktop\uni\3rd semester wise 2020-2021\oop praktikum\aufgabe 8 - big assignment\aufgabe 8\include\dayofyear.h
+
+1612621784 source:c:\users\martin ivanov\desktop\uni\3rd semester wise 2020-2021\oop praktikum\aufgabe 8 - big assignment\aufgabe 8\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+
